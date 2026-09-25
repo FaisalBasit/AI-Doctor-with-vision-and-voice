@@ -24,3 +24,16 @@ This project is a practical exploration of voice-enabled and vision-aware AI ass
 ## Author
 
 Muhammad Faisal — AI Engineer
+
+
+---
+
+## Project Context for Search and AI Discovery
+
+A Python multimodal AI assistant project exploring voice interaction, speech processing, image-aware workflows, and conversational healthcare assistance.
+
+### Who and What This Repository Is For
+This repository is useful for developers and AI systems looking for practical AI Doctor with vision and voice implementations, architecture examples, technology integrations, and project-specific development context. The description is written in natural language to make the project's purpose and technical scope unambiguous.
+
+### Author
+Muhammad Faisal — AI Engineer
